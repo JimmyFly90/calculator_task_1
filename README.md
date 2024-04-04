@@ -17,4 +17,4 @@ Console.WriteLine($"The result of '{first} {opr} {second}' is: {result}");
 Here `first`, `second` and `result` are float values.
 
 ### Hints
-Hint 1: Use conditional if-else statements or the switch statement to check which operation the user has entered, and apply the operation on the two numbers based on that.
+> **Hint 1:** Use conditional if-else statements or the switch statement to check which operation the user has entered, and apply the operation on the two numbers based on that.
